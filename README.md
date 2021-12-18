@@ -1,5 +1,6 @@
 # responsiveSlides-v1.55-webdesign
 responsiveSlides v1.55 
+<a href="http://responsiveslides.com/"> website</a>
 
 ## `1` buat file namanya bebas 
 kemudian isi file dengan ini:
